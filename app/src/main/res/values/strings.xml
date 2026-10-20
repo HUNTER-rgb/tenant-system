@@ -10,4 +10,24 @@
     <string name="saved_tenant_hint">Saved tenant will appear here</string>
     <string name="saved_name_hint">Tenant name will appear here</string>
     <string name="tenant_name_required">Tenant name is required</string>
+    <string name="login_subtitle">Log in to continue</string>
+    <string name="register_subtitle">Create an account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full name</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="register_link">Don\'t have an account? Register</string>
+    <string name="login_link">Already have an account? Log in</string>
+    <string name="help_link">Need help? Visit our website</string>
+    <string name="login_required">Please enter your email and password</string>
+    <string name="registration_required">Please fill in all fields</string>
+    <string name="account_created">Account created. Please log in.</string>
+    <string name="no_browser">No browser is installed on this device</string>
+    <string name="no_matching_app">No app is available to handle this action</string>
+    <string name="call_tenant">CALL TENANT</string>
+    <string name="share_tenant">Share tenant</string>
+    <string name="save_tenant_first">Save a tenant first</string>
+    <string name="required">Required</string>
+    <string name="logged_in_as">Logged in as %1$s</string>
 </resources>
